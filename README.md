@@ -53,11 +53,12 @@
 ## Bow
 
 - Advanced Power 5;
+- Multishot 4;
 <!-- - Rune: Arrow Piecing 4; -->
 <!-- - Rapid Fire 2; -->
 - Arrow Recowery 3;
 <!-- - Strafe 4; -->
-- Adept 3;
+<!-- - Adept 3; -->
 <!-- - Advanced Mending; -->
 <!-- - Unbreakign 3; -->
 <!-- - Range; -->
