@@ -6,9 +6,9 @@
 - [x] Supreme Sharpness 5;
 - [x] Lifesteal 2;
 - [x] Envenomed 3;
-- [] Ash Destroyer 5;
+- [ ] Ash Destroyer 5;
 - [x] Rune: Piercing Capabilities 4;
-- [] Swifter Slashes 5;
+- [ ] Swifter Slashes 5;
 - [x] Arc Slash 3;
 - [x] Supreme Fire Aspect 2;
 - [x] Viper 5;
@@ -28,23 +28,23 @@
 - [x] Advanced Mending
 - [x] Unbreaking 3;
 - [x] Advanced Thorns 3(?);
-- [] Heating(?);
+- [ ] Heating(?);
 
 ### Helmet:
 - [x] Respiration 3;
-- [] Aqua affinity;
+- [ ] Aqua affinity;
 
 ### Chestplate:
-- [] Strengtened vitality 5;
+- [ ] Strengtened vitality 5;
 - [x] Inner Berserk 4;
 
 ### Leggings:
 - [x] Agility 2;
 
 ### Boots:
-- [] Advanced Feather Falling 4;
+- [ ] Advanced Feather Falling 4;
 - [x] Depth Strider 3;
-- [] Light Weight 3;
+- [ ] Light Weight 3;
 - [x] Double Jump;
 - [x] High Jump 2;
 - [x] Wall Running(?);
@@ -52,11 +52,11 @@
 
 ## Bow
 
-- [] Advanced Power 5;
-- [] Multishot 4;
+- [ ] Advanced Power 5;
+- [ ] Multishot 4;
 - [x] Rune: Arrow Piecing 4;
 - [x] Rapid Fire 2;
-- [] Arrow Recowery 3;
+- [ ] Arrow Recowery 3;
 - [x] Strafe 4;
 - [x] Adept 3;
 - [x] Advanced Mending;
@@ -68,9 +68,9 @@
 ## Shield: 
 
 - [x] Emowered Defence 2;
-- [] Natural Blockign 2;
-- [] Burning Shield 4;
-- [] Spikes 3;
-- [] Knockback 2;
+- [ ] Natural Blockign 2;
+- [ ] Burning Shield 4;
+- [ ] Spikes 3;
+- [ ] Knockback 2;
 - [x] Unbreaking 3;
 - [x] Advanced Mending;
